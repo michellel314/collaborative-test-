@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Image("watermelon")
-                .imageScale(.small)
+                .imageScale(.medium)
                 .foregroundStyle(.tint)
             Text("RISE WATERMELONS")
         }
