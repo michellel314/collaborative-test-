@@ -13,6 +13,8 @@ struct Mango: View {
             .resizable()
             .frame(width: 150, height: 150)
         Text("IT'S A MANGO")
+        Text("Why do we like mangos?")
+        Text("BECAUSE IT'S TASTY BUT ONE OF US PEOPLE IS ALLERGIC")
     }
 }
 
